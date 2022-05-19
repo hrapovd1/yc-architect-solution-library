@@ -4,6 +4,7 @@
 
 - bash
 - [cli](https://cloud.yandex.ru/docs/cli/operations/install-cli), инициированный в профиле default а вашего пользователя( он должен быть admin или editor на уровне облака)
+- https://youtu.be/cdYMi2EAnJ8 - вебинар
 
 
 ## Часть 1 - создание инфструктурного стенда 
